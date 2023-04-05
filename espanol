@@ -1,0 +1,37 @@
+[
+   {
+      "en":"green",
+      "es":"verde",
+      "category":"colours"
+   },
+   {
+      "en":"Red",
+      "es":"Rojo",
+      "category":"colours"
+   },
+   {
+      "en":"Brown",
+      "es":"Marrón",
+      "category":"colours"
+   },
+   {
+      "en":"Grey",
+      "es":"Grís",
+      "category":"colours"
+   },
+   {
+      "en":"White",
+      "es":"Blanco",
+      "category":"colours"
+   },
+   {
+      "en":"Blue",
+      "es":"Azul",
+      "category":"colours"
+   },
+   {
+      "en":"Yellow",
+      "es":"Amarillo",
+      "category":"colours"
+   }
+]
